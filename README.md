@@ -16,6 +16,8 @@
 
 ### 基础
 
+
+
 - [Activity详细解析](/AndroidNote/Android基础/Activity详细解析.md)
 - [Service详细解析](/AndroidNote/Android基础/Service详细解析.md)
 - [IntentService详细解析](/AndroidNote/Android基础/IntentService详细解析.md)
@@ -37,14 +39,12 @@
 - [用SpannableString打造绚丽多彩的文本显示效果](http://www.jianshu.com/p/84067ad289d2)
 - [解析ConstraintLayout的性能优势](https://mp.weixin.qq.com/s/gGR2itbY7hh9fo61SxaMQQ)
 - [Android新特性介绍，ConstraintLayout完全解析](https://blog.csdn.net/guolin_blog/article/details/53122387)
-- [Android新特性介绍，ConstraintLayout完全解析](https://blog.csdn.net/guolin_blog/article/details/53122387)
 - [Android 一个无限循环滚动的卡片式ViewPager](https://blog.csdn.net/qq_30552993/article/details/76208535)
 
 
 ### Android进阶
 
-- [Android 触控事件解析 - Mastering The Android Touch System 笔记
-](https://www.jianshu.com/p/c65da5e81afd)
+- [Android 触控事件解析 - Mastering The Android Touch System 笔记](https://www.jianshu.com/p/c65da5e81afd)
 - [Android 多进程使用场景](http://blog.csdn.net/qq_27489007/article/details/54377655)
 - [Android官网建议代码规范](https://source.android.com/source/code-style#java-language-rules)
 - [30多年编码经验总结成10条最佳实践](https://mp.weixin.qq.com/s?__biz=MzIyMjQ0MTU0NA==&mid=2247484524&idx=1&sn=5b2759e6d89f01e61d021545ca7556b9&chksm=e82c3d4bdf5bb45dd77227982931ede8229ee6910829253a57bb905e810c89bd3f0a162786e8&mpshare=1&scene=23&srcid=1023FjKcLWtRlcDpwEeeJnCN#rd)
